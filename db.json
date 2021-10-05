@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC",
+      "price": "2.31"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Macbook",
+      "price": "12000.31"
+    },
+    {
+      "id": 3,
+      "name": "Galaxy S20",
+      "price": "5000.31"
+    },
+    {
+      "name": "Prato do Forms",
+      "price": "30.99",
+      "id": 4
+    },
+    {
+      "name": "jfgjh",
+      "price": "6556",
+      "id": 5
+    },
+    {
+      "name": "Gabriela Farias",
+      "price": "5000.00",
+      "id": 6
+    }
+  ]
+}
